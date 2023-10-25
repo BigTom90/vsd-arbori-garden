@@ -4129,6 +4129,7 @@ width:100%;
 .picframe {
 	position: relative;
 	overflow: hidden;
+	max-height:160px;
 }
 .picframe img{
 	width:100%;
@@ -6456,5 +6457,5 @@ display:table;
 	
 	.grid-item .pf_title{
 		display:none;
-	}
+	}	
 	}
